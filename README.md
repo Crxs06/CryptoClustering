@@ -8,3 +8,4 @@ Finally, we compare the clustering results and elbow curves side-by-side to see 
 
 The code follows good practices with clear naming, comments, and proper organization. The repository includes all files with meaningful commit messages.
 
+Resources: Built with help from ChatGPT and Xpert Assistant.
